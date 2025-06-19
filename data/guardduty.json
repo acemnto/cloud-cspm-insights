@@ -1,0 +1,10 @@
+[
+  {
+    "service": "guardduty",
+    "rule_id": "gd1",
+    "details": {
+      "severity": 5.3,
+      "resource_type": "Instance"
+    }
+  }
+]

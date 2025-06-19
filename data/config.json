@@ -1,0 +1,9 @@
+[
+  {
+    "service": "config",
+    "rule_id": "1.1",
+    "details": {
+      "root_mfa_enabled": false
+    }
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "service": "cloudtrail",
+    "rule_id": "ct1",
+    "details": {
+      "logging_enabled": true
+    }
+  }
+]
